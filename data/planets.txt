@@ -1,0 +1,91 @@
+	English	Sun	Mercury	Venus	Earth	Moon	Mars	Jupiter	Saturn	Uranus	Neptune	Pluto	
+	OldEnglish	Sunne	Mercurius	Venus	Eorðe	Mōna	Mars	Iupiter	Saturnus
+	Latin	Sol	Mercurius	Venus	Terra	Luna	Mars	Jupiter	Saturnus	Uranus	Neptunus	Pluto
+	Italian	Sole	Mercurio	Venere	Terra	Luna	Marte	Giove	Saturno	Urano	Nettuno	Plutone
+	Ligurian	Sô	Mercuio	Venere	Tæra	Luna	Marte	Giove	Satûrno	Uran	Nettun	Pluton
+	Venetian	Sołe	Mercurio	Venere	Tera	Łuna	Marte	Xove	Saturno	Urano	Netuno	Plutone
+	Spanish	Sol	Mercurio	Venus	Tierra	Luna	Marte	Júpiter	Saturno	Urano	Neptuno	Plutón
+	Galacian	Sol	Mercurio	Venus	Terra	Lúa	Marte	Xúpiter	Saturno	Urano	Neptuno	Plutón
+	Catalan	Sol	Mercuri	Venus	Terra	Lluna	Mart	Júpiter	Saturn	Urà	Neptú	Plutó
+	Portuguese	Sol	Mercúrio	Vênus	Terra	Lua	Marte	Júpiter	Saturno	Urano	Neptuno	Plutão
+	French	Soleil	Mercure	Vénus	Terre	Lune	Mars	Jupiter	Saturne	Uranus	Neptune	Pluton
+	Jèrriais	Solé	Mèrtchure	Vênus	Tèrre	Leune	Mars	Jupiter	Saturne	Uranus	Nepteune	Pliuton
+	Provençal	Solely	Mèrcure	Vènus	Tèrra	Lena	Mârs	Jupitèr	Saturno	Urano	Neptuno	Pluton	
+	Walloon	Solea	Mierkeure	Venusse	Tere	Lune	Måss	Djupiter	Satûne	Uranusse	Nûton	Pluton
+	Romanian	Soare	Mercur	Venus	Pamint	Luna	Marte	Jupiter	Saturn	Uranus	Neptun	Pluto
+	Sicilian	Suli	Mircuriu	Vèniri	Terra	Luna	Marti		Giovi	Saturnu	Uranu	Nettunu	Plutoni
+	Maltese	Ix-Xemx	Merkurju	Venere	Id-Dinja	il-Qamar	Marte	Gove	Saturno	Uranu	Nettunu	Plutone
+	Esperanto	Suno	Merkuro	Venuso	Tero	Luno	Marso	Jupitero	Saturno	Urano	Neptuno	Plutono
+	German	Sonne	Merkur	Venus	Erde	Mond	Mars	Jupiter	Saturn	Uranus	Neptun	Pluto
+	Low	German	Sünn	Merkur	Venus	Eer	Maand	Mars		Jupiter	Saturn	Uranus	Neptun	Pluto
+	Dutch	Zon	Mercurius	Venus	Aarde	Maan	Mars	Jupiter	Saturnus	Uranus	Neptunus	Pluto
+	Alemannish.Sunne	Merkur	Venus	Erde	Mond	Mars	Jupiter	Saturn	Uranus	Neptun	Pluto	
+	Yiddish	Zun	Merkur	Venus	Erd	Levone	Mars	Yupiter	Zaturn	Uranus	Neptun	Pluto
+	Limburgish	Zon	Mercuur	Venus	Eerd	Maon	Mars	Jupiter	Saturn	Uraan	Neptuun	Pluto
+	Kölsch	Sunn	Merrkuur	Veenuß	Ääd	Moond	Mars	Juppitter	Satturrən	Urranuß	Nepptuun	Pluuto
+	W.	Frisian	Sinne	Merkurius	Fenus	Ierde	Moanne	Mars		Jupiter	Saturnus	Uranus	Neptunus	Pluto	
+	Luxembourg.Sonn	Merkur	Venus	Äerd	Mound	Mars		Jupiter	Saturn	Uranus	Neptun	Pluto	
+	Afrikaans	Son	Mercurius	Venus	Aarde	Maan	Mars	Jupiter	Saturnus	Uranus	Neptunus	Pluto
+	Scots	Sun	Mercur	Venus	Yird	Muin	Maurs		Jupiter	Saturn	Uranus	Neptune	Pluto
+	Swedish	Solen	Merkurius	Venus	Jorden	Månen	Mars	Jupiter	Saturnus	Uranus	Neptunus	Pluto
+	Norwegian	Sola	Merkur	Venus	Jorda	Månen	Mars	Jupiter	Saturn	Uranus	Neptun	Pluto
+	Danish	Solen	Merkur	Venus	Jorden	Månen	Mars	Jupiter	Saturn	Uranus	Neptun	Pluto
+	Icelandic	Sól	Merkúr	Venus	Jörð	Tungl	Mars	Júpíter	Satúrnus	Úranus	Neptúnus	Plútó
+	Faroese	Sól	Merkur	Venus	Jørðin	Máni	Mars	Jupiter	Saturn	Uranus	Neptun	Pluto
+	Finnish	Aurinko	Merkurius	Venus	Maa	Kuu	Mars	Jupiter	Saturnus	Uranus	Neptunus	Pluto
+	Albanian	Dielli	Merkuri	Afërdita	Toka	Hëna	Marsi	Jupiteri	Saturni	Uranusi	Neptuni	Plutoni
+	Estonian	Päike	Merkuur	Veenus	Maa	Kuu	Marss	Jupiter	Saturn	Uraan	Neptuun	Pluuto
+	Latvian	Saule	Merkurs	Vene'ra	Zeme	Me'ness	Marss	Jupiters	Saturns	Ura'ns	Neptu'ns	Pluto
+	Hungarian	Nap	Merkùr	Vénusz	Föld	Hold	Mars	Jupiter	Szaturnusz	Uránusz	Neptunusz	Plútó
+	Czech	Slunce	Merkur	Venuse	Zeme	Mesíc	Mars	Jupiter	Saturn	Uran	Neptun	Pluto
+	old	Czech	Slunce	Dobropan	Krasopani	Zeme	Mesic	Smrtonos	Kralomoc	Hladolet	Nebestanka	Vodopan	Pluto
+	Slovenian	Sonce	Merkur	Venera	Zemlja	Mesec	Mars	Jupiter	Saturn	Uran	Neptun	Pluton
+	Croatian	Sunce	Merkur	Venera	Zemlja	Mjesec	Mars	Jupiter	Saturn	Uran	Neptun	Pluton
+	Serbian	Sunce	Merkur	Venera	Zemlja	Mesec	Mars	Jupiter	Saturn	Uran	Neptun	Pluton
+	Polish	Slonce	Merkury	Wenus	Ziemia	Ksiezyc	Mars	Jowisz	Saturn	Uran	Neptun	Pluton
+	Georgian	Mze	Merkuri	Venera	Dedamizha	Mthware	Marsi	Iupiteri	Saturni	Urani	Neptuni	Plutoni
+	Russian	Solnce	Merkurij	Venera	Zemlja	Luna	Mars	Yupiter	Saturn	Uran	Neptun	Pluton
+	Ukrainian	Sontse	Merkuriy	Venera	Zemlya	Misyatsy	Mars	Yupiter	Saturn	Uran	Neptun	Pluton
+	Belarus.	Sontsa	Merkury	Venera	Zyamlya	Mesyats	Mars	Yupiter	Saturn	Uran	Neptun	Pluton	
+	Lithuanian	Saulė	Merkurijus	Venera	Zemė	Mėnulis	Marsas	Jupiteris	Saturnas	Uranas	Neptūnas	Plutonas
+	Samogitian	Saulė	Merkorėjos	Ausrėnė	Zemė	Mienolis	Zėizdrė	Jopėteris	Soturns	Urans	Naptūns	Plutuons
+	Bulgarian	Slanze	Merkurij	Venera	Zemya	Luna	Mars	Jupiter	Saturn	Uran	Neptun	Pluton
+	Basque	Eguzkia	Merkurio	Artizar	Lurra	Ilargia	Martitza	Jupiter	Saturno	Urano	Neptuno	Pluton
+	Greek	Helios	Hermes	Aphrodite	Gaea	Selene	Ares	Zeus	Kronos	Uranos	Poseidon	Pluton	
+	Sanskrit	Surya	Budha	Sukra	Dhara	Chandra	Mangala	Brhaspati	Sani
+	Gujarati	Surya	Budh	Shukra	Prathivi	Chandra	Mangal	Guru	Shani	Prajapathie	Varun	Yamdev
+	Bengali	Surya	Budh	Shukra	Prithivi	Chand	Mangal	BrihaspatiShani
+	Tamil	Njaayar	Budan	Vellhi	Buumi	Tingalh	Sevvaay	Viyaazhan	Sani
+	Thai	Surya	Budha	Sukra	Lok	Chandra	Angkarn	Prhasbadi	Sao	Uranus	Neptune	Pluto
+	Irish	Grian	Mearcair	Véineas	An	Domhan	Gealach	Mars	Iúpatar	Satarn	Uránas	Neiptiún	Plútón
+	Sc.	Gaelic	Grian	Mearcair	Ribhinn	An	Talamh	Gealach	Corg	Bliogh	Satarn	Urànus	Neiptiùn	Pliùtò	
+	Welsh	Haul	Mercher	Gwener	Daear	Lleuad	Mawrth	Iau	Sadwrn	Wranws	Neifion	Plwton
+	Breton	Heol	Merc'her	Gwener	Douar	Loar	Meurzh	Yaou	Sadorn	Ouran	Neizhan	Ploudon
+	Hebrew	Shemesh	Kochav	Chama	Nogah	Eretz	Yareach	Ma'adim	Tzedek	Shabtay	Uron	Rahav	Pluto
+	Arabic	Shams	Otaared	Zuhra	Ard	Quamar	Merrikh	Mushtarie	Zuhal	Uraanus	Niptuun	Plutoon
+	Turkish	Günes	Merkür	Venüs	Dünya	Ay	Mars	Jüpiter	Satürn	Uranüs	Neptün	Plüton
+	Uzbek	Quyosh	Utorid	Zuhra	Yer	Oy	Mirrikh	Mushtarij	Zuhal
+	Farsi	Khorshid	Tir	Naheed	Zamin	Mah	Bahram	Berjis	Kayvon	Oranos	Nepton	Pluton
+	Cantonese	Taiyeung	Suising	Gumsing	Deiqao	Yueqao	Fuosing	Moqsing	Tousing	Tinwongsing	Huoiwongsing	Mengwongsing
+	Mandarin	Taiyang	Shuixing	Jinxing	Diqiu	Yueqiu	Huoxing	Muxing	Tuxing	Tianwangxing	Haiwangxing	Mingwangxing
+	Korean	Taeyang	Soosung	Kumsung	Jeegoo	Dal	Hwasung	Moksung	Tosung	Chunwangsung	Haewangsung	Myungwangsung
+	Japanese	Taiyou	Suisei	Kinsei	Chikyuu	Tsuki	Kasei	Mokusei	Dosei	Ten'ousei	Kaiousei	Meiousei
+	Filipino	Araw	Merkuryo	Venus	Daigdig	Buwan	Marte	Jupiter	Saturno	Uranus	Neptuno	Pluto
+	Indonesian	Matahari	Merkurius	Venus	Bumi	Bulan	Mars	Yupiter	Saturnus	Uranus	Neptunus	Pluto
+	Malay	Matahari	Utarid	Zuhrah	Bumi	Bulan	Marikh	Musytari	Zuhal	Uranus	Neptun	Pluto
+	Tahitian	Mahana	Taa'ero	Ta'urua	Fenua	Marama	Maunu'Ura	Ta'urua-nui	Feti'a	Tea
+	Hawaiian	Laa	Ukaliali'i	Hookuuloa	Honua	Mahina	Hookuu'ula	Ka'aawela	Makulu	Hele'ekela	Nepekune	'Ilioki
+	Maori	Rā	Meretūahiahi	Marama	Pareārau	Whērangi	Whiro
+	Maori	Apārangi	Papatuānuku	Tūmatauenga	Rongo	Tangaroa
+	Nahuatl	Tonatiuh	Citlalpol	Metztli	Tezcatlipocacitlalli	Ilhuicateocitlalli	Mictlanteuccitlalli
+	Nahuatl	Payinalcitlalli	Tlalticpactli	Chichilcitlalli	Tzitzimicitlalli	Tlaloccitlalli	
+	Swahili	Jua	Utaridi	Zuhura	Dunia	Mwezi	Mirihi	Mshtarii	Zohari
+	Xhosa	iLanga	uMetyhuri	uVenasi	uMhlaba	iNyanga	uMarsi	uJupita	iSateni	uYurenasi	iNephthuni	uPluto
+	Sesotho	Letsatsi	Mekhuri	Vinase	Lefatshe	Kgwedi	Mase	Jupita	Satene	Yuranese	Nepetjhunu	Puluto
+	Sepedi	Letsatsi	Mekhuri	Mphatlalatsane
+	Sepedi	Lefase	Ngwedi	Mmase	Jupita	Satuni	Yurenuse	Neputhuni	Pluto
+	Tswana	Letsatsi	Mekhuri	Benase	Lefatshe	Ngwedi	Mase	Selemela	Sathene	Yuranase	Nepetshunu	Pholuto
+	Zulu	iLanga	uMekhyuri	uVinasi	uMhlaba	iNyanga	uMarzi	uNdonsakusa	uSarthana	uYurenasi	uNephthuni	uPlutho
+	Sumerian	Utu	Udu-idim-gu-ud	Nin-si-an-na	Suen	Si-mu-ud	Mul-sag-me-gar	Udu-idim-sag-us
+	Babylonian	Samas	Sihtu	Delebat	Ersetu	Sin	Salbatanu	Neberu	Kayamanu
+	Klingon	Sol	merqurI'	vIneS	tera'	luna	ma'rIS	ju'pIter	Sa'tun	yurey'neS	neptun	pulu'to'
